@@ -2,7 +2,7 @@
 
 The implemented algorithm, introduced by A. Rubinov (2017), builds a hierarchical tree on the given Hi-C contact matrices, and provides methods to calculate the differences between such trees.
 
-# Running the algorithm (Example)
+# Running the algorithm. Example
 ### Installing
 Download the RubinovAlgorithm.py file, run python3 in the directory with the .py file and import RubinovAlgorithm class.
 ```
