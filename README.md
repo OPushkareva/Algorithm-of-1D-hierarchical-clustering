@@ -21,4 +21,4 @@ ra.visualise_tree(200, 400)
 
 The output is a .pdf image with the hierarchical tree visualization on the selected part of Hi-C matrix.
 
-![alt text](https://ibb.co/eMWQvL)
+![alt text](https://preview.ibb.co/mATS9f/H-tree.jpg)
